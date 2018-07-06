@@ -68,7 +68,7 @@ field_of_dreams = media.Movie(
     "Field of Dreams",
     "A farmer hears voices of building a field. \
     He does, and 'they' come.",
-    "https://upload.wikimedia.org/wikipedia/en/6/6b/Field_of_Dreams_poster.jpg",
+    "https://upload.wikimedia.org/wikipedia/en/6/6b/Field_of_Dreams_poster.jpg",  # NOQA
     "https://www.youtube.com/watch?v=Ut06d4dptWo")
 
 bugs_life = media.Movie(
