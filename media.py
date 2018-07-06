@@ -1,9 +1,11 @@
 import webbrowser
 
+
 class Video():
     '''Used to create instance of videos with a title'''
     def __init__(self, media_title):
         self.title = media_title
+
 
 class Movie(Video):
     '''Used to create instances of Movies, shows trailers and stores info on storyline, poster and a youtube url'''
